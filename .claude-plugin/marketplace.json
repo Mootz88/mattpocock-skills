@@ -1,0 +1,36 @@
+{
+  "name": "mattpocock-skills",
+  "owner": {
+    "name": "Mootz88",
+    "url": "https://github.com/Mootz88"
+  },
+  "metadata": {
+    "description": "Skills For Real Engineers — Matt Pocock's daily-use agent skills for real engineering work.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "source": "./",
+      "description": "A composable set of small, model-agnostic skills for real engineering: TDD, diagnosis, triage, PRD/issues, prototyping, code review and more.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Matt Pocock",
+        "url": "https://www.aihero.dev"
+      },
+      "homepage": "https://github.com/Mootz88/mattpocock-skills",
+      "repository": "https://github.com/Mootz88/mattpocock-skills",
+      "license": "MIT",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "productivity",
+        "tdd",
+        "debugging",
+        "prd",
+        "triage",
+        "prototyping"
+      ]
+    }
+  ]
+}
